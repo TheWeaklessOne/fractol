@@ -19,10 +19,11 @@ You have to launch the program with a parameter. This is the name of the fractal
 
 Example :
 
-Open the Mandelbrot fractal ⇣
+Open the fractol menu ⇣
 ```bash
-./fractol mandelbrot
+./fractol menu
 ```
+![fractol screeneshot](https://i.imgur.com/Tvia8MZ.png)
 ## Keyboard shortcuts
 
 <table width="100%">
