@@ -14,7 +14,7 @@ Several options are available (see [Keyboard shortcuts](https://github.com/Benja
 ## Install & launch
 ```bash
 git clone https://github.com/TheWeaklessOne/fractol ~/Fractol
-cd ~/Fractol && ./fractol julia
+cd ~/Fractol && && make && ./fractol julia
 ```
 You have to launch the program with a parameter. This is the name of the fractal you would like to open at the execution of the program. This parameter as to be the name of a valid fractal (Julia, Mandelbrot or Tricorn).<br />
 
