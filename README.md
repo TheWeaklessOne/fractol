@@ -3,7 +3,7 @@
 Fractol is a program developed for my learning course at 21 school for the exploration of Fractals.
 
 ![](fractol.gif)
-Several options are available (see [Keyboard shortcuts](https://github.com/BenjaminSouchet/Fractol#keyboard-shortcuts) or/and [Mouse controls](https://github.com/BenjaminSouchet/Fractol#mouse-controls) sections for more infos) :
+Several options are available (see [Keyboard shortcuts](https://github.com/TheWeaklessOne/fractol#keyboard-shortcuts) or/and [Mouse controls](https://github.com/TheWeaklessOne/fractol#mouse-controls) sections for more infos) :
 * Zoom and unzoom
 * Change the number of iterations
 * Move the current fractal
